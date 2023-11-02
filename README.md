@@ -71,3 +71,11 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Vercel
+
+Linked to dhanraj-pais-projects/message-server (created .vercel and added it to .gitignore)
+Inspect: https://vercel.com/dhanraj-pais-projects/message-server/DyLBvZshcdg3nDLdUn9u7hGXdcsP [5s]
+Preview: https://message-server-oaipr550h-dhanraj-pais-projects.vercel.app [5s]
+Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+To change the domain or build command, go to https://vercel.com/dhanraj-pais-projects/message-server/settings
